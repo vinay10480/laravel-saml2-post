@@ -33,6 +33,5 @@
                 "Saml2": "SamlPost\\Saml2\\Facades\\Saml2Auth"
             }
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
